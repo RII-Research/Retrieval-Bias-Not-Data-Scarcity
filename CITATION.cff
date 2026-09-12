@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Retrieval Bias, Not Data Scarcity, Drives Epistemic Inequality in Retrieval-Augmented Generation"
+authors:
+  - family-names: Tibebu
+    given-names: Haileleol
+  - family-names: Udhayakumar
+    given-names: Anushree
+  - family-names: Yang
+    given-names: Yvonne
+  - family-names: Kayamo
+    given-names: Mitiku Kebede
+year: 2026
+preferred-citation:
+  type: article
+  title: "Retrieval Bias, Not Data Scarcity, Drives Epistemic Inequality in Retrieval-Augmented Generation"
+  authors:
+    - family-names: Tibebu
+      given-names: Haileleol
+    - family-names: Udhayakumar
+      given-names: Anushree
+    - family-names: Yang
+      given-names: Yvonne
+    - family-names: Kayamo
+      given-names: Mitiku Kebede
+  year: 2026
+  journal: "AI for Society"
+  notes: "Under review"
